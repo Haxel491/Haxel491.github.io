@@ -6,7 +6,7 @@
 
 [2016 U.S. Presidental Election Results](/2016_Presidental_Election)
 
-<img src=2016_Presidental_Election/2016 Presidental Election Results.png"/>
+<img src="2016_Presidental_Election/2016 Presidental Election Results.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
