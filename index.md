@@ -4,7 +4,8 @@
 
 ### Category Name 1 
 
-[2016 U.S. Presidental Election Results](/sample_page)
+[2016 U.S. Presidental Election Results](/2016_Presidental_Election)
+
 <img src="Bar_Graph_Results.jpg.svg"/>
 
 ---
