@@ -9,7 +9,7 @@
 <img src="2016_Presidental_Election/2016 Presidental Election Results.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Vacant Households in the U.S.] (Vacant_Houses_Project/index.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
