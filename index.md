@@ -3,10 +3,16 @@
 ---
 
 ### U.S. Presidential Elections
+[2000 U.S. Presidental Election Results](US_Elections/Presidential/2000/index.md)
 
-[2016 U.S. Presidental Election Results](/2016_Presidental_Election/index.html)
+[2004 U.S. Presidental Election Results](US_Elections/Presidential/2004/index.md)
 
-<img src="2016_Presidental_Election/2016 Presidental Election Results.png"/>
+[2008 U.S. Presidental Election Results](US_Elections/Presidential/2006/index.md)
+
+[2012 U.S. Presidental Election Results](US_Elections/Presidential/2012/index.md)
+
+[2016 U.S. Presidental Election Results](US_Elections/Presidential/2016/Web_Map/index.html)
+
 
 ---
 ### Analyzing Vacant Households in Maryland with 3D Maps
