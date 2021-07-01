@@ -1,0 +1,330 @@
+<?xml version = "1.0" standalone = "no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1906" height="939" style="box-sizing: inherit; font-family: Calibri;">
+  <rect id="backgroundRect" width="1906" height="939" x="0" y="0" fill="rgb(255,255,255)" fill-opacity="1" style="box-sizing: inherit;" />
+  <defs style="box-sizing: inherit;" />
+  <clipPath id="chartRect162449" style="box-sizing: inherit;">
+    <rect x="-1" y="-1" width="1908" height="941" style="box-sizing: inherit;" />
+  </clipPath>
+  <g class="wj-header" style="box-sizing: inherit; background: rgb(238, 238, 238); color: rgb(68, 68, 68); font-weight: 700;" clip-path="url(#chartRect162449)">
+    <text x="787.0" y="23.0" fill="rgb(68,68,68)" class="wj-title" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 16pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">Results of 2016 Presidental Election</text>
+  </g>
+  <g class="wj-footer" style="box-sizing: inherit;" clip-path="url(#chartRect162449)" />
+  <clipPath id="legRect89165" style="box-sizing: inherit;">
+    <rect x="1666" y="458" width="241" height="52" style="box-sizing: inherit;" />
+  </clipPath>
+  <g class="wj-legend" style="box-sizing: inherit;" clip-path="url(#legRect89165)">
+    <g style="box-sizing: inherit;">
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" stroke-width="1" x="1670.6" y="466.0" width="10.0" height="10.0" stroke-opacity="1" style="box-sizing: inherit;" />
+      <text x="1684.6" y="476.5" class="wj-label" fill="rgb(68,68,68)" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">Number of Votes for the Democrats</text>
+    </g>
+    <g style="box-sizing: inherit;">
+      <rect fill="#a80000" stroke="rgb(168,0,0)" stroke-width="1" x="1670.6" y="491.0" width="10.0" height="10.0" stroke-opacity="1" style="box-sizing: inherit;" />
+      <text x="1684.6" y="501.5" class="wj-label" fill="rgb(68,68,68)" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 10pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">Number of Votes for the Republicans</text>
+    </g>
+  </g>
+  <g class="wj-plot-area" style="box-sizing: inherit;">
+    <rect fill="#000000" stroke-width="1" x="88.0" y="44.0" width="1568.4" height="844.0" fill-opacity="0" style="box-sizing: inherit;" />
+  </g>
+  <g class="wj-axis-x" style="box-sizing: inherit;" clip-path="url(#chartRect162449)">
+    <text x="95.0" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">AK</text>
+    <line stroke="#666" stroke-width="1" x1="103.4" x2="103.4" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="126.8" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">AL</text>
+    <line stroke="#666" stroke-width="1" x1="134.1" x2="134.1" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="156.5" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">AR</text>
+    <line stroke="#666" stroke-width="1" x1="164.9" x2="164.9" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="187.6" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">AZ</text>
+    <line stroke="#666" stroke-width="1" x1="195.7" x2="195.7" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="218.7" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">CA</text>
+    <line stroke="#666" stroke-width="1" x1="226.4" x2="226.4" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="249.1" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">CO</text>
+    <line stroke="#666" stroke-width="1" x1="257.2" x2="257.2" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="280.7" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">CT</text>
+    <line stroke="#666" stroke-width="1" x1="287.9" x2="287.9" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="310.5" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">DC</text>
+    <line stroke="#666" stroke-width="1" x1="318.7" x2="318.7" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="342.2" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">DE</text>
+    <line stroke="#666" stroke-width="1" x1="349.4" x2="349.4" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="374.2" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">FL</text>
+    <line stroke="#666" stroke-width="1" x1="380.2" x2="380.2" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="402.8" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">GA</text>
+    <line stroke="#666" stroke-width="1" x1="410.9" x2="410.9" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="435.8" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">HI</text>
+    <line stroke="#666" stroke-width="1" x1="441.7" x2="441.7" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="466.8" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">IA</text>
+    <line stroke="#666" stroke-width="1" x1="472.4" x2="472.4" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="497.1" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">ID</text>
+    <line stroke="#666" stroke-width="1" x1="503.2" x2="503.2" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="529.3" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">IL</text>
+    <line stroke="#666" stroke-width="1" x1="533.9" x2="533.9" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="558.6" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">IN</text>
+    <line stroke="#666" stroke-width="1" x1="564.7" x2="564.7" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="588.8" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">KS</text>
+    <line stroke="#666" stroke-width="1" x1="595.5" x2="595.5" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="619.1" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">KY</text>
+    <line stroke="#666" stroke-width="1" x1="626.2" x2="626.2" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="650.0" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">LA</text>
+    <line stroke="#666" stroke-width="1" x1="657.0" x2="657.0" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="678.3" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">MA</text>
+    <line stroke="#666" stroke-width="1" x1="687.7" x2="687.7" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="708.6" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">MD</text>
+    <line stroke="#666" stroke-width="1" x1="718.5" x2="718.5" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="740.8" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">ME</text>
+    <line stroke="#666" stroke-width="1" x1="749.2" x2="749.2" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="773.0" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">MI</text>
+    <line stroke="#666" stroke-width="1" x1="780.0" x2="780.0" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="800.8" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">MN</text>
+    <line stroke="#666" stroke-width="1" x1="810.7" x2="810.7" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="831.6" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">MO</text>
+    <line stroke="#666" stroke-width="1" x1="841.5" x2="841.5" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="863.7" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">MS</text>
+    <line stroke="#666" stroke-width="1" x1="872.2" x2="872.2" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="894.1" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">MT</text>
+    <line stroke="#666" stroke-width="1" x1="903.0" x2="903.0" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="925.2" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">NC</text>
+    <line stroke="#666" stroke-width="1" x1="933.7" x2="933.7" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="955.5" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">ND</text>
+    <line stroke="#666" stroke-width="1" x1="964.5" x2="964.5" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="987.7" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">NE</text>
+    <line stroke="#666" stroke-width="1" x1="995.2" x2="995.2" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1017.3" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">NH</text>
+    <line stroke="#666" stroke-width="1" x1="1026.0" x2="1026.0" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1050.1" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">NJ</text>
+    <line stroke="#666" stroke-width="1" x1="1056.8" x2="1056.8" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1077.6" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">NM</text>
+    <line stroke="#666" stroke-width="1" x1="1087.5" x2="1087.5" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1109.8" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">NV</text>
+    <line stroke="#666" stroke-width="1" x1="1118.3" x2="1118.3" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1141.0" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">NY</text>
+    <line stroke="#666" stroke-width="1" x1="1149.0" x2="1149.0" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1171.0" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">OH</text>
+    <line stroke="#666" stroke-width="1" x1="1179.8" x2="1179.8" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1202.0" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">OK</text>
+    <line stroke="#666" stroke-width="1" x1="1210.5" x2="1210.5" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1232.8" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">OR</text>
+    <line stroke="#666" stroke-width="1" x1="1241.3" x2="1241.3" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1265.1" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">PA</text>
+    <line stroke="#666" stroke-width="1" x1="1272.0" x2="1272.0" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1297.6" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">RI</text>
+    <line stroke="#666" stroke-width="1" x1="1302.8" x2="1302.8" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1326.4" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">SC</text>
+    <line stroke="#666" stroke-width="1" x1="1333.5" x2="1333.5" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1356.6" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">SD</text>
+    <line stroke="#666" stroke-width="1" x1="1364.3" x2="1364.3" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1386.9" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">TN</text>
+    <line stroke="#666" stroke-width="1" x1="1395.0" x2="1395.0" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1418.2" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">TX</text>
+    <line stroke="#666" stroke-width="1" x1="1425.8" x2="1425.8" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1448.9" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">UT</text>
+    <line stroke="#666" stroke-width="1" x1="1456.6" x2="1456.6" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1479.4" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">VA</text>
+    <line stroke="#666" stroke-width="1" x1="1487.3" x2="1487.3" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1510.2" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">VT</text>
+    <line stroke="#666" stroke-width="1" x1="1518.1" x2="1518.1" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1538.9" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">WA</text>
+    <line stroke="#666" stroke-width="1" x1="1548.8" x2="1548.8" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1571.9" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">WI</text>
+    <line stroke="#666" stroke-width="1" x1="1579.6" x2="1579.6" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1600.2" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">WV</text>
+    <line stroke="#666" stroke-width="1" x1="1610.3" x2="1610.3" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <text x="1631.5" y="910.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">WY</text>
+    <line stroke="#666" stroke-width="1" x1="1641.1" x2="1641.1" y1="888.0" y2="892.0" class="wj-tick" style="box-sizing: inherit; stroke: rgb(170, 170, 170); stroke-width: 1px;" />
+    <line stroke="rgb(156,156,156)" stroke-width="1px" x1="88.0" x2="1656.5" y1="888.0" y2="888.0" class="wj-line" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; stroke: rgb(156, 156, 156); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="852.5" y="935.0" fill="rgb(68,68,68)" class="wj-title" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 12pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">States</text>
+  </g>
+  <g class="wj-axis-y" style="box-sizing: inherit;" clip-path="url(#chartRect162449)">
+    <text x="68.0" y="893.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">0</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="865.1" y2="865.1" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="33.1" y="870.1" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">200,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="842.1" y2="842.1" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="32.1" y="847.1" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">400,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="819.2" y2="819.2" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="33.1" y="824.2" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">600,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="796.3" y2="796.3" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="33.1" y="801.3" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">800,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="773.4" y2="773.4" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="778.4" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">1,000,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="750.4" y2="750.4" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="755.4" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">1,200,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="727.5" y2="727.5" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="732.5" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">1,400,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="704.6" y2="704.6" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="709.6" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">1,600,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="681.7" y2="681.7" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="686.7" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">1,800,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="658.7" y2="658.7" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="663.7" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">2,000,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="635.8" y2="635.8" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="640.8" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">2,200,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="612.9" y2="612.9" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="617.9" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">2,400,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="589.9" y2="589.9" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="594.9" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">2,600,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="567.0" y2="567.0" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="572.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">2,800,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="544.1" y2="544.1" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="549.1" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">3,000,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="521.2" y2="521.2" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="526.2" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">3,200,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="498.2" y2="498.2" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="503.2" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">3,400,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="475.3" y2="475.3" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="480.3" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">3,600,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="452.4" y2="452.4" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="457.4" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">3,800,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="429.5" y2="429.5" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="23.0" y="434.5" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">4,000,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="406.5" y2="406.5" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="23.0" y="411.5" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">4,200,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="383.6" y2="383.6" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="23.0" y="388.6" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">4,400,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="360.7" y2="360.7" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="23.0" y="365.7" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">4,600,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="337.8" y2="337.8" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="23.0" y="342.8" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">4,800,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="314.8" y2="314.8" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="319.8" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">5,000,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="291.9" y2="291.9" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="296.9" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">5,200,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="269.0" y2="269.0" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="274.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">5,400,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="246.0" y2="246.0" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="251.0" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">5,600,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="223.1" y2="223.1" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="228.1" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">5,800,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="200.2" y2="200.2" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="205.2" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">6,000,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="177.3" y2="177.3" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="182.3" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">6,200,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="154.3" y2="154.3" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="159.3" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">6,400,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="131.4" y2="131.4" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="136.4" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">6,600,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="108.5" y2="108.5" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="113.5" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">6,800,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="85.6" y2="85.6" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="90.6" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">7,000,000</text>
+    <line stroke="rgb(225,225,225)" stroke-width="1px" x1="88.0" x2="1656.5" y1="62.6" y2="62.6" class="wj-gridline" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; opacity: 0.75; stroke: rgb(225, 225, 225); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+    <text x="24.0" y="67.6" fill="rgb(0,0,0)" class="wj-label" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 9pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(0, 0, 0); fill-opacity: 1;">7,200,000</text>
+    <g transform="rotate(-90.0,10.5,466.0)" style="box-sizing: inherit;">
+      <text x="-75.8" y="472.5" fill="rgb(68,68,68)" class="wj-title" fill-opacity="1" style="box-sizing: inherit; cursor: default; font-size: 12pt; font-family: 'Segoe UI'; font-style: normal; font-weight: normal; fill: rgb(68, 68, 68); fill-opacity: 1;">Number of Votes Casted</text>
+    </g>
+    <line stroke="rgb(156,156,156)" stroke-width="1px" x1="88.0" x2="88.0" y1="44.0" y2="888.0" class="wj-line" stroke-opacity="1" stroke-dasharray="none" style="box-sizing: inherit; stroke: rgb(156, 156, 156); stroke-opacity: 1; stroke-width: 1px; stroke-dasharray: none;" />
+  </g>
+  <g class="wj-series-group" style="box-sizing: inherit;">
+    <g style="box-sizing: inherit;" clip-path="url(#plotRect109155)">
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="92.6" y="578.8" width="10.8" height="309.2" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="123.4" y="805.7" width="10.8" height="82.3" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="154.1" y="844.6" width="10.8" height="43.4" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="184.9" y="780.7" width="10.8" height="107.3" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="215.6" y="44.0" width="10.8" height="844.0" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="246.4" y="749.0" width="10.8" height="139.0" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="277.2" y="786.6" width="10.8" height="101.4" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="307.9" y="858.2" width="10.8" height="29.8" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="338.7" y="861.0" width="10.8" height="27.0" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="369.4" y="373.8" width="10.8" height="514.2" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="400.2" y="677.4" width="10.8" height="210.6" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="430.9" y="857.4" width="10.8" height="30.6" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="461.7" y="813.4" width="10.8" height="74.6" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="492.4" y="866.3" width="10.8" height="21.7" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="523.2" y="546.7" width="10.8" height="341.3" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="553.9" y="769.7" width="10.8" height="118.3" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="584.7" y="840.5" width="10.8" height="47.5" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="615.4" y="815.9" width="10.8" height="72.1" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="646.2" y="798.6" width="10.8" height="89.4" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="676.9" y="662.8" width="10.8" height="225.2" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="707.7" y="716.3" width="10.8" height="171.7" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="738.5" y="847.3" width="10.8" height="40.7" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="769.2" y="628.0" width="10.8" height="260.0" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="800.0" y="731.3" width="10.8" height="156.7" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="830.7" y="767.1" width="10.8" height="120.9" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="861.5" y="835.0" width="10.8" height="53.0" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="892.2" y="868.0" width="10.8" height="20.0" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="923.0" y="640.2" width="10.8" height="247.8" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="953.7" y="877.3" width="10.8" height="10.7" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="984.5" y="856.6" width="10.8" height="31.4" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1015.2" y="848.0" width="10.8" height="40.0" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1046.0" y="656.2" width="10.8" height="231.8" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1076.7" y="844.4" width="10.8" height="43.6" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1107.5" y="826.4" width="10.8" height="61.6" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1138.3" y="413.0" width="10.8" height="475.0" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1169.0" y="622.4" width="10.8" height="265.6" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1199.8" y="839.9" width="10.8" height="48.1" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1230.5" y="780.9" width="10.8" height="107.1" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1261.3" y="561.9" width="10.8" height="326.1" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1292.0" y="859.4" width="10.8" height="28.6" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1322.8" y="790.6" width="10.8" height="97.4" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1353.5" y="874.5" width="10.8" height="13.5" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1384.3" y="788.6" width="10.8" height="99.4" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1415.0" y="444.6" width="10.8" height="443.4" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1445.8" y="856.6" width="10.8" height="31.4" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1476.5" y="668.3" width="10.8" height="219.7" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1507.3" y="867.6" width="10.8" height="20.4" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1538.1" y="703.4" width="10.8" height="184.6" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1568.8" y="729.7" width="10.8" height="158.3" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1599.6" y="866.5" width="10.8" height="21.5" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#0070ff" stroke="rgb(0,112,255)" x="1630.3" y="881.6" width="10.8" height="6.4" stroke-opacity="1" style="box-sizing: inherit;" />
+    </g>
+    <g style="box-sizing: inherit;" clip-path="url(#plotRect109155)">
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="103.4" y="454.5" width="10.8" height="433.5" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="134.1" y="738.2" width="10.8" height="149.8" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="164.9" y="810.3" width="10.8" height="77.7" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="195.7" y="770.9" width="10.8" height="117.1" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="226.4" y="439.1" width="10.8" height="448.9" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="257.2" y="757.6" width="10.8" height="130.4" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="287.9" y="811.4" width="10.8" height="76.6" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="318.7" y="886.7" width="10.8" height="1.3" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="349.4" y="866.8" width="10.8" height="21.2" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="380.2" y="360.0" width="10.8" height="528.0" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="410.9" y="650.9" width="10.8" height="237.1" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="441.7" y="873.2" width="10.8" height="14.8" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="472.4" y="796.4" width="10.8" height="91.6" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="503.2" y="841.3" width="10.8" height="46.7" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="533.9" y="645.2" width="10.8" height="242.8" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="564.7" y="709.6" width="10.8" height="178.4" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="595.5" y="812.8" width="10.8" height="75.2" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="626.2" y="750.1" width="10.8" height="137.9" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="657.0" y="753.0" width="10.8" height="135.0" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="687.7" y="763.8" width="10.8" height="124.2" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="718.5" y="787.8" width="10.8" height="100.2" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="749.2" y="849.6" width="10.8" height="38.4" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="780.0" y="626.7" width="10.8" height="261.3" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="810.7" y="736.4" width="10.8" height="151.6" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="841.5" y="706.2" width="10.8" height="181.8" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="872.2" y="810.2" width="10.8" height="77.8" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="903.0" y="856.6" width="10.8" height="31.4" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="933.7" y="619.8" width="10.8" height="268.2" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="964.5" y="863.2" width="10.8" height="24.8" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="995.2" y="832.3" width="10.8" height="55.7" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1026.0" y="848.4" width="10.8" height="39.6" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1056.8" y="712.0" width="10.8" height="176.0" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1087.5" y="851.8" width="10.8" height="36.2" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1118.3" y="829.4" width="10.8" height="58.6" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1149.0" y="585.3" width="10.8" height="302.7" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1179.8" y="570.2" width="10.8" height="317.8" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1210.5" y="779.3" width="10.8" height="108.7" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1241.3" y="802.9" width="10.8" height="85.1" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1272.0" y="554.1" width="10.8" height="333.9" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1302.8" y="867.4" width="10.8" height="20.6" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1333.5" y="756.9" width="10.8" height="131.1" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1364.3" y="861.9" width="10.8" height="26.1" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1395.0" y="714.1" width="10.8" height="173.9" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1425.8" y="351.3" width="10.8" height="536.7" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1456.6" y="836.2" width="10.8" height="51.8" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1487.3" y="689.5" width="10.8" height="198.5" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1518.1" y="877.1" width="10.8" height="10.9" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1548.8" y="758.6" width="10.8" height="129.4" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1579.6" y="727.1" width="10.8" height="160.9" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1610.3" y="832.3" width="10.8" height="55.7" stroke-opacity="1" style="box-sizing: inherit;" />
+      <rect fill="#a80000" stroke="rgb(168,0,0)" x="1641.1" y="868.0" width="10.8" height="20.0" stroke-opacity="1" style="box-sizing: inherit;" />
+    </g>
+  </g>
+  <clipPath id="plotRect109155" style="box-sizing: inherit;">
+    <rect x="87" y="43" width="1570" height="846" style="box-sizing: inherit;" />
+  </clipPath>
+  <clipPath id="plotRect143948" style="box-sizing: inherit;">
+    <rect x="-1" y="-1" width="1570" height="846" style="box-sizing: inherit;" />
+  </clipPath>
+  <g class="wj-chart-annotationlayer" transform="translate(88.015625, 44)" style="box-sizing: inherit;" clip-path="url(#plotRect143948)" />
+</svg>
