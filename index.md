@@ -9,8 +9,9 @@
 <img src="2016_Presidental_Election/2016 Presidental Election Results.png"/>
 
 ---
+### Analyzing Vacant Households in Maryland with 3D Maps
 [Vacant Households in the U.S.](/Vacant_Houses_Project/index.html)
-
+<img src= "Vacant_Houses_Project/Images/3D_Vacant_House_Map.PNG"/>
 
 ---
 [Project 3 Title](http://example.com/)
