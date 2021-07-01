@@ -2,7 +2,7 @@
 
 ---
 
-### Using a REST Server to Create an ArcGIS Online Application
+### Creating ArcGIS Online Applications through ESRI's REST Server
 
 - [2016 U.S. Presidental Election Results](US_Elections/Presidential/2016/index.html)
 
