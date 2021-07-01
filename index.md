@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### U.S. Presidential Elections
 
 [2016 U.S. Presidental Election Results](/2016_Presidental_Election/index.html)
 
