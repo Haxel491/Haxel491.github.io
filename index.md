@@ -9,8 +9,8 @@ Creating ArcGIS Online Applications through ESRI's REST Server
 
 
 ---
-### [Vacant Households in the U.S.](/Vacant_Houses_Project/index.html)
-Analyzing Vacant Households in Maryland with 3D Maps
+### [Vacant Households in Maryland](/Vacant_Houses_Project/index.html)
+Using the ArcGIS JavaScript API to build 3D web maps
 
 <img src= "Vacant_Houses_Project/Images/3D_Vacant_House_Map.PNG"/>
 
@@ -34,5 +34,4 @@ Analyzing Vacant Households in Maryland with 3D Maps
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
