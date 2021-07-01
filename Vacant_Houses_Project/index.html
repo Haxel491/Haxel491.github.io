@@ -1,26 +1,34 @@
-<!DOCTYPE html>
+
+
+<!DOCTYPE HTML>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="initial-scale=1,maximum-scale=1,user-scalable=no"/>
+<head>
+	<meta charset="utf-8">
+	<title>Dojo layout demo</title>
+	<link rel="stylesheet" href="main.css" media="screen">
   
-	  <title>Lesson 5|Layer Visualization Assignment</title>
+    <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/dojo/1.10.4/dijit/themes/claro/claro.css">  
+  
+    <link rel="stylesheet" href="https://js.arcgis.com/4.18/esri/themes/light/main.css">
+    <script src="https://js.arcgis.com/4.18/"></script>    
     
+    <!-- load dojo -->
 
-	<link rel = 'stylesheet' href='mainCSS.css'></link>
-	
-    <link rel="stylesheet" href="https://js.arcgis.com/4.16/esri/themes/light/main.css"/>
+    <script>
+        require(["dojo/parser", "dijit/layout/BorderContainer", "dijit/layout/ContentPane", "dojo/domReady!"], function(parser){
+            parser.parse();           
+        });
+    </script>
 
-    <script src="https://js.arcgis.com/4.16/"></script>
-	
-	<script src='mainJS.js'></script>
-    
-	
-  </head>
-  <body>
-	
-    <div id="viewDiv"></div>
-  </body>
+    <script src="main.js"></script>
+</head>
+<body class="claro">
+    <div id="appLayout" class="demoLayout" data-dojo-type="dijit/layout/BorderContainer" data-dojo-props="design: 'headline'">
+        <div class="centerPanel" data-dojo-type="dijit/layout/ContentPane" data-dojo-props="region: 'center'">
+            <div id="viewDiv"></div>
+        </div>
+        <div class="edgePanel" data-dojo-type="dijit/layout/ContentPane" data-dojo-props="region: 'top'">Header content (top)</div>
+        <div id="leftCol" class="edgePanel" data-dojo-type="dijit/layout/ContentPane" data-dojo-props="region: 'left', splitter: true">Sidebar content (left)</div>
+    </div>   
+</body>
 </html>
