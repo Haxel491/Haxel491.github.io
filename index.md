@@ -3,15 +3,15 @@
 ---
 
 ### U.S. Presidential Elections
-[2000 U.S. Presidental Election Results](US_Elections/Presidential/2000/index.md)
+- [2000 U.S. Presidental Election Results](US_Elections/Presidential/2000/index.md)
 
-[2004 U.S. Presidental Election Results](US_Elections/Presidential/2004/index.md)
+- [2004 U.S. Presidental Election Results](US_Elections/Presidential/2004/index.md)
 
-[2008 U.S. Presidental Election Results](US_Elections/Presidential/2006/index.md)
+- [2008 U.S. Presidental Election Results](US_Elections/Presidential/2006/index.md)
 
-[2012 U.S. Presidental Election Results](US_Elections/Presidential/2012/index.md)
+- [2012 U.S. Presidental Election Results](US_Elections/Presidential/2012/index.md)
 
-[2016 U.S. Presidental Election Results](US_Elections/Presidential/2016/Web_Map/index.html)
+- [2016 U.S. Presidental Election Results](US_Elections/Presidential/2016/index.md)
 
 
 ---
