@@ -12,7 +12,6 @@
 [Vacant Households in the U.S.](/Vacant_Houses_Project/index.html)
 
 
-<iframe src="https://haxel491.github.io/Vacant_Houses_Project/index.html"></iframe>
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
