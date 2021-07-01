@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[2016 U.S. Presidental Election Results](/2016_Presidental_Election/index.md)
+[2016 U.S. Presidental Election Results](/2016_Presidental_Election/index.html)
 
 <img src="2016_Presidental_Election/2016 Presidental Election Results.png"/>
 
