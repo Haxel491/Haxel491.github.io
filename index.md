@@ -9,8 +9,9 @@ Creating ArcGIS Online Applications through ESRI's REST Server
 
 
 ---
-### Analyzing Vacant Households in Maryland with 3D Maps
-[Vacant Households in the U.S.](/Vacant_Houses_Project/index.html)
+### [Vacant Households in the U.S.](/Vacant_Houses_Project/index.html)
+Analyzing Vacant Households in Maryland with 3D Maps
+
 <img src= "Vacant_Houses_Project/Images/3D_Vacant_House_Map.PNG"/>
 
 ---
