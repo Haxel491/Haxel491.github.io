@@ -10,8 +10,7 @@
 
 ---
 [Vacant Households in the U.S.](/Vacant_Houses_Project/index.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src= https://haxel491.github.io/Vacant_Houses_Project/index.html/)
+https://haxel491.github.io/Vacant_Houses_Project/index.html
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
