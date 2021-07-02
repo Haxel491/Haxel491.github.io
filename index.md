@@ -14,7 +14,7 @@ Using the ArcGIS JavaScript API to build 3D web maps
 
 ---
 
-### [2016 U.S. Presidental Election Results](US_Elections/Presidential/2016/index.html)
+### [2016 U.S. Presidental Election Results](US_Elections/Presidential/2016/Web_Map/index.html)
 Creating ArcGIS Online Applications through ESRI's REST Server
 <img src= "US_Elections/Presidential/2016/Images/2016 Presidental Election Results.png"/>
  
