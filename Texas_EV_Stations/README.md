@@ -19,6 +19,12 @@
 <h2>Folders to be Constructed</h2>
 <ul>
   <li>Images</li>
+  <ul>
+    <li>Overview Map of EV Charging Stations in Texas</li>
+    <li>Cost Allocation Map of EV Charging Stations</li>
+    <li>Thiessen Polygon Map of EV Charging Stations</li>
+    <li>Texas Roadway Types Map</li>
+  </ul>
   <li>WebMap</li>
   <ul>
     <li>JS File</li>
