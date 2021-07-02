@@ -2,7 +2,7 @@
 ---
 ### [Electrical Vehichle Stations in Texas](Texas_EV_Stations/index.md)
 Detecting spatial autocorrelation and predicting distribution trends of electrical vehicle charging stations in Texas
-
+<img src="Texas_EV_Stations/Images/Autocorrelation_Report.PNG"/>
 <img src="Texas_EV_Stations/Images/Texas_Counties_EV_Tool.PNG"/>
 
 ---
