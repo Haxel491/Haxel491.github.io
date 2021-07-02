@@ -13,6 +13,8 @@
   <li>Web Map Feature Layer Expressions</li>
   <li>Web Map Feature Layer Metadata</li>
   <li>Web Map Feature Layer Pop-up Configurations</li>
+  <li>Electrical Vehicles & Charging Stations Dictionary</li>
+  <li>U.S. Federal Government Intiatives for EV Adoption</li>
   <li>Citation/Source List</li>
 </ul>
 
