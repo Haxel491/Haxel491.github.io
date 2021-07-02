@@ -1,4 +1,16 @@
 ## Portfolio
+---
+### [Electrical Vehichle Stations in Texas](Texas_EV_Stations/index.md)
+Detecting spatial autocorrelation and predicting distribution trends of electrical vehicle charging stations in Texas
+
+<img src="Texas_EV_Stations/Images/Texas_Counties_EV_Tool.PNG"/>
+
+---
+
+### [Vacant Households in Maryland](/Vacant_Houses_Project/index.html)
+Using the ArcGIS JavaScript API to build 3D web maps
+
+<img src= "Vacant_Houses_Project/Images/3D_Vacant_House_Map.PNG"/>
 
 ---
 
@@ -9,18 +21,8 @@ Creating ArcGIS Online Applications through ESRI's REST Server
 
 
 ---
-### [Vacant Households in Maryland](/Vacant_Houses_Project/index.html)
-Using the ArcGIS JavaScript API to build 3D web maps
 
-<img src= "Vacant_Houses_Project/Images/3D_Vacant_House_Map.PNG"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
+### [Electrical Vehichle Stations in Texas](Texas_EV_Stations/index.md)
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
