@@ -1,1 +1,24 @@
+<h1> Under Construction (07/01/2021) </h1>
+<br>
+<h2>GIS Data to be Constructed</h2>
+<ul> 
+  <li>GIS Feature Layer</li>
+  <li>GIS Web Map</li>
+  <li>GIS Web Application</li>
+ </ul>
+ 
+<h2>References To be Constructed</h2>
+
+<ul>
+  <li>Web Map Feature Layer Data Dictionary</li>
+  <li>Web Map Feature Layer Expressions</li>
+  <li>Web Map Feature Layer Metadata</li>
+  <li>Web Map Feature Layer Pop-up Configurations</li>
+  <li>Link to the 201 Presidential Wikipedia Page</li>
+  <li>Portarit Pictures of the Candidates</li>
+  <li>Citation/Source List</li>
+</ul>
+<h2>Come Back Soon!</h2>
+
+
 
