@@ -6,13 +6,13 @@ Detecting spatial autocorrelation and predicting distribution trends of electric
 
 ---
 
-### [2020 U.S. Presidental Election Results](https://dcdrones123.carto.com/builder/734c9c1c-2560-42f0-b42a-049a64320b2b/embed)
+### [2020 U.S. Presidential Election Results](https://dcdrones123.carto.com/builder/734c9c1c-2560-42f0-b42a-049a64320b2b/embed)
 Combining ArcGIS Online, Mapbox, and CARTO to create a GIS Web Application
 <img src= "US_Elections/Presidential/2020/Images/Presidential_CARTO_Picture.png"/>
 
 ---
 
-### [2016 U.S. Presidental Election Results](US_Elections/Presidential/2016/Web_Map/index.html)
+### [2016 U.S. Presidential Election Results](US_Elections/Presidential/2016/Web_Map/index.html)
 Creating ArcGIS Online Applications through ESRI's REST Server
 <img src= "US_Elections/Presidential/2016/Images/2016 Presidental Election Results.png"/>
  
