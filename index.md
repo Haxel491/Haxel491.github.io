@@ -2,14 +2,12 @@
 ---
 ### [Electrical Vehicle Stations in Texas](Texas_EV_Stations/index.md)
 Detecting spatial autocorrelation and predicting distribution trends of electrical vehicle charging stations in Texas
-<img src="Texas_EV_Stations/Images/Autocorrelation_Report.PNG"/>
 <img src="Texas_EV_Stations/Images/Texas_Counties_EV_Tool.PNG"/>
 
 ---
 
-### [2020 U.S. Presidental Election Results](/Vacant_Houses_Project/index.html)
-Combining ArcGIS Online, Mapbox, and CARTO to created a GIS Web Application
-<iframe width="100%" height="520" frameborder="0" src="https://dcdrones123.carto.com/builder/734c9c1c-2560-42f0-b42a-049a64320b2b/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+### [2020 U.S. Presidental Election Results](https://dcdrones123.carto.com/builder/734c9c1c-2560-42f0-b42a-049a64320b2b/embed)
+Combining ArcGIS Online, Mapbox, and CARTO to create a GIS Web Application
 <img src= "US_Elections/Presidential/2020/Images/Presidential_CARTO_Picture.png"/>
 
 ---
