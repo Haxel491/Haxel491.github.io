@@ -10,7 +10,7 @@ Detecting spatial autocorrelation and predicting distribution trends of electric
 ### [2020 U.S. Presidental Election Results](/Vacant_Houses_Project/index.html)
 Combining ArcGIS Online, Mapbox, and CARTO to created a GIS Web Application
 
-<img src= "Vacant_Houses_Project/Images/3D_Vacant_House_Map.PNG"/>
+<img src= "US_Elections/Presidential/2020/Images/Presidential_CARTO_Picture.png"/>
 
 ---
 
