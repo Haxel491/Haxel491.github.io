@@ -21,6 +21,8 @@ html, body {
 }
 
 .claro .demoLayout .edgePanel {
+    text-align: center;
+    color: #ffffff;
     background-color: #47484a;
 }
 
