@@ -1,0 +1,59 @@
+html, body, 
+
+#mainViewDiv {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+#akViewDiv {
+    padding: 0;
+    margin: 0;
+    height: 225px;
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+#hiViewDiv {
+    padding: 0;
+    margin: 0;
+    height: 135px;
+    width: 200px;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+#appLayout {
+    height: 100%;
+    
+}
+#leftCol {
+    width: 25em;
+     text-align: left;
+    background-color: #47484a;
+}
+
+.claro .demoLayout .edgePanel {
+    background-color: #47484a;
+    text-align: center;
+  
+}
+
+h1 { 
+    text-align: center;
+    font-size: 2.5em; /* 40px/16=2.5em */
+    color: #ebebeb;
+}
+h2 { 
+    text-align: center;
+    font-size: 1.5em; /* 20px/16=1.25em */
+    color: #ebebeb;
+}
+.p1 {
+  text-align: center;
+  font-size:1.125em;
+  color: #ebebeb;
+}
+.p2 {
+  text-align: center;
+  font-size::.375em;
+  color: #ebebeb;
+}
