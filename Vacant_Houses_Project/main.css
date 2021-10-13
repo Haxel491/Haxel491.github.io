@@ -14,7 +14,7 @@ html, body {
 
 #appLayout {
     height: 100%;
-    text-align: center;
+    
 }
 #leftCol {
     width: 14em;
@@ -23,6 +23,7 @@ html, body {
 
 .claro .demoLayout .edgePanel {
     background-color: #47484a;
+    text-align: center;
 }
 
 h1 { 
