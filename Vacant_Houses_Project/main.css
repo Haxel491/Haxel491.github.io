@@ -37,3 +37,6 @@ h2 {
     font-size: 1.5em; /* 24px/16=1.5em */
     color: #ebebeb;
 }
+ul.a {
+  list-style-position: outside;
+}
