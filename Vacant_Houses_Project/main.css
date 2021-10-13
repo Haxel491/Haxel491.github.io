@@ -18,6 +18,7 @@ html, body {
 }
 #leftCol {
     width: 14em;
+     text-align: left;
     background-color: #47484a;
 }
 
