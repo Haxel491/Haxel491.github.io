@@ -17,6 +17,7 @@ html, body {
 }
 #leftCol {
     width: 14em;
+    background-color: #47484a;
 }
 
 .claro .demoLayout .edgePanel {
