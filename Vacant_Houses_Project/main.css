@@ -23,3 +23,8 @@ html, body {
 .claro .demoLayout .edgePanel {
     background-color: #47484a;
 }
+
+h1, { 
+    color: #ffffff;
+}
+
