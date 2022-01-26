@@ -2,8 +2,11 @@
 ---
 
 <h2>Research Projects</h2>
-<h3><a href="Texas_EV_Stations/index.md" target="_blank" rel="noopener noreferrer">Examing Electrical Vehicle Charging Station Coverage in Travis County, Texas</a></h3>
-Detecting spatial autocorrelation and predicting distribution trends of electrical vehicle charging stations in Texas
+
+### [Examing Electrical Vehicle Charging Station Coverage in Travis County, Texas](/Texas_EV_Stations/index.md)
+
+Proposing new prospective locations for electrical vehicle charging stations through the use of user/location demand model and GIS network analysis
+
 <img src="Texas_EV_Stations/Images/Texas_Counties_EV_Tool.PNG"/>
 
 ---
