@@ -1,12 +1,16 @@
 ## Portfolio
 ---
-### [Electrical Vehicle Stations in Texas](Texas_EV_Stations/index.md)
+
+<h2>Research Projects</h2>
+
+[Electrical Vehicle Stations in Texas](Texas_EV_Stations/index.md)
 Detecting spatial autocorrelation and predicting distribution trends of electrical vehicle charging stations in Texas
 <img src="Texas_EV_Stations/Images/Texas_Counties_EV_Tool.PNG"/>
 
 ---
 
-### Online GIS Web Maps
+<h2>Online GIS Web Maps</h2>
+
 <ul>
  <h3><a href="https://dcdrones123.carto.com/builder/734c9c1c-2560-42f0-b42a-049a64320b2b/embed" target="_blank" rel="noopener noreferrer">2020 U.S. Presidential Election Results</a></h3>
  <li>Combining ArcGIS Online, Mapbox, and CARTO to Create a GIS Web Map</li>
@@ -20,7 +24,8 @@ Detecting spatial autocorrelation and predicting distribution trends of electric
  
 ---
 
-### Notable Course Taken at Penn State University
+<h2>Notable Courses Taken at Penn State University</h2>
+
 <ul>
   <li><a href="https://www.e-education.psu.edu/geog865/node/25" target="_blank" rel="noopener noreferrer"><b>Cloud and Server GIS</b></a>: Learning how to set up cloud services for creating maps, cloud services for managing spatial data, and cloud services for processing spatial data</li>
  
