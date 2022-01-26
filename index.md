@@ -2,8 +2,7 @@
 ---
 
 <h2>Research Projects</h2>
-
-[Electrical Vehicle Stations in Texas](Texas_EV_Stations/index.md)
+<h3><a href="https://haxel491.github.io/Texas_EV_Stations/" target="_blank" rel="noopener noreferrer">Examing Electrical Vehicle Charging Station Coverage in Travis County, Texas</a></h3>
 Detecting spatial autocorrelation and predicting distribution trends of electrical vehicle charging stations in Texas
 <img src="Texas_EV_Stations/Images/Texas_Counties_EV_Tool.PNG"/>
 
@@ -11,16 +10,14 @@ Detecting spatial autocorrelation and predicting distribution trends of electric
 
 <h2>Online GIS Web Maps</h2>
 
-<ul>
  <h3><a href="https://dcdrones123.carto.com/builder/734c9c1c-2560-42f0-b42a-049a64320b2b/embed" target="_blank" rel="noopener noreferrer">2020 U.S. Presidential Election Results</a></h3>
- <li>Combining ArcGIS Online, Mapbox, and CARTO to Create a GIS Web Map</li>
+ <p>Combining ArcGIS Online, Mapbox, and CARTO to Create a GIS Web Map</p>
  
  <h3><a href="https://haxel491.github.io/US_Elections/Presidential/2016/Web_Map/index.html" target="_blank" rel="noopener noreferrer">2016 U.S. Presidential Election Results</a></h3>
- <li>Creating a Custom Web with ESRI's REST Server, ArcGIS JavaScript API, and Dojo's Digit Containers</li>
+ <p>Creating a Custom Web with ESRI's REST Server, ArcGIS JavaScript API, and Dojo's Digit Containers</p>
  
  <h3><a href="https://haxel491.github.io/Vacant_Houses_Project/index.html" target="_blank" rel="noopener noreferrer">Exploring the Number of Vacant Homes in Maryland</a></h3>
- <li>Using the ArcGIS JavaScript API to build a 3D web map</li>
- </ul>
+ <p>Using the ArcGIS JavaScript API to build a 3D web map</p>
  
 ---
 
@@ -42,6 +39,7 @@ Detecting spatial autocorrelation and predicting distribution trends of electric
  <li><a href="https://www.e-education.psu.edu/geog485/node/91" target="_blank" rel="noopener noreferrer"><b>GIS Programming and Software Development</b></a>: Creating custom geoprocessing tools using ArcGIS Python API</li>
  
  <li><a href="https://www.e-education.psu.edu/geog863/node/1776" target="_blank" rel="noopener noreferrer"><b>Web Application Development for Geospatial Professionals</b></a>: Building applications using the core web technologies of HTML, CSS, and JavaScript. Implementing of 2D maps and 3D scenes for projects, understanding API documentation, layer discovery and visualization, user interface development, data querying, and geoprocessing.</li>
+ </ul>
 
   
 
