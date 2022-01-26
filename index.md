@@ -2,7 +2,7 @@
 ---
 
 <h2>Research Projects</h2>
-<h3><a href="https://haxel491.github.io/Texas_EV_Stations/" target="_blank" rel="noopener noreferrer">Examing Electrical Vehicle Charging Station Coverage in Travis County, Texas</a></h3>
+<h3><a href="Texas_EV_Stations/index.md" target="_blank" rel="noopener noreferrer">Examing Electrical Vehicle Charging Station Coverage in Travis County, Texas</a></h3>
 Detecting spatial autocorrelation and predicting distribution trends of electrical vehicle charging stations in Texas
 <img src="Texas_EV_Stations/Images/Texas_Counties_EV_Tool.PNG"/>
 
