@@ -15,9 +15,9 @@
 
 <h2>Why Texas?</h2>
   
-  <img src="Images/State_EV_Registrations.jpg"/>
+  <img src="Images/State_EV_Registrations.jpg" width="500"/>
 
- <img src="Images/Project_EV_Registration.jpg" width="485"/> <img src="Images/Project_Cumulative_EV_Registration.jpg" width="459"/>
+ <img src="Images/Project_EV_Registration.jpg" width="500"/> <img src="Images/Project_Cumulative_EV_Registration.jpg" width="500"/>
  
 
 ---
