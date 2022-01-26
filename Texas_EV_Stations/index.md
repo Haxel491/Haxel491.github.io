@@ -3,7 +3,7 @@
 ---
 <h2> Model Workflows</h2>
 
-<h3><a href="https://haxel491.github.io/Texas_EV_Stations/Images/Cost_Allocation_Tool.PNG" target="_blank" rel="noopener noreferrer">County & Electrical Vehicle Charging Station Georeferencing Tool</a></h3>
+<h3><a href="https://github.com/Haxel491/Haxel491.github.io/blob/master/Texas_EV_Stations/Images/Texas_Counties_EV_Tool.PNG" target="_blank" rel="noopener noreferrer">County & Electrical Vehicle Charging Station Georeferencing Tool</a></h3>
 <img src="Images/Texas_Counties_EV_Tool.PNG"/>
 
 
