@@ -5,7 +5,7 @@
 
 <h3>County & Electrical Vehicle Charging Station Georeferencing Tool</h3>
 <img src="Images/Texas_Counties_EV_Tool.PNG"/>
-<p>Check out <a href="https://haxel491.github.io/Texas_EV_Stations/Images/Cost_Allocation_Tool.PNG" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
+<h3>Check out <a href="https://haxel491.github.io/Texas_EV_Stations/Images/Cost_Allocation_Tool.PNG" target="_blank" rel="noopener noreferrer">County & Electrical Vehicle Charging Station Georeferencing Tool</a>.</h3>
 
 <h3>Cost Allocation Determination Tool</h3>
 <img src="Images/Cost_Allocation_Tool.PNG"/>
