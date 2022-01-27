@@ -25,11 +25,11 @@
 </ul>
 
 <p><strong>Source(s):</strong></p>
-<a href="https://censusreporter.org/profiles/05000US48453-travis-county-tx/">Age Statistics</a></br>
-<a href="https://www.census.gov/quickfacts/traviscountytexas">Education Statistics</a></br>
-<a href="https://datausa.io/profile/geo/travis-county-tx#housing">Housing Statistics</a></br>
-<a href="https://datausa.io/profile/geo/travis-county-tx">Income Statistics</a></br>
-<a href="https://datausa.io/profile/geo/travis-county-tx">National Income Statistics</a></br>
+<a href="https://censusreporter.org/profiles/05000US48453-travis-county-tx/">Age Statistics</a><br>
+<a href="https://www.census.gov/quickfacts/traviscountytexas">Education Statistics</a><br>
+<a href="https://datausa.io/profile/geo/travis-county-tx#housing">Housing Statistics</a><br>
+<a href="https://datausa.io/profile/geo/travis-county-tx">Income Statistics</a><br>
+<a href="https://datausa.io/profile/geo/travis-county-tx">National Income Statistics</a><br>
 
 ---
 <h2>Objectives</h2>
