@@ -2,7 +2,7 @@
 
 ---
 
-<h2>Project Background</h2>
+<h2>Introduction</h2>
 <ul>
   <li>In recent times, discussion about climate change and its effects have become more pronounced. Policy makers and industry leaders alike have responded by legislating regulations that seek to gradually limit the amount of Green House Gas emission (GHG) released into the atmosphere each year.</li>
   
@@ -10,6 +10,25 @@
   
   <li>The supporting evidence for these measures has been that the disproportionate share of GHG emissions are produced by private light-duty vehicles. Within the U.S. transportation sector over 59% of total GHG emissions are emitted by private light-duty vehicles<sup>5</sup>.</li>
 </ul>
+---
+<h2>Background</h2>
+<h4>Why Travis County, Texas?</h4>
+<ul>
+  <li>Travis County, Texas has a confluence of variables that influence high levels of electric vehicle (EV) adoption and electrical vehicle charging station construction</li>
+  <ul>
+    <li>Median age of 34.7 compared to the national average of 38.5</li>
+    <li>50% of persons age 25 and older have a bachelors degree or higher</li>
+    <li>A higher than average median household income of $80,726, compared to the national average median income of $69,560</li>
+    <li>Median property value of $362,300, compared to the national average of $240,500</li>
+  </ul>
+</ul>
+
+<p><strong>Source(s):</strong></p>
+<a href="https://censusreporter.org/profiles/05000US48453-travis-county-tx/">Age Statistics</a></br>
+<a href="https://www.census.gov/quickfacts/traviscountytexas">Education Statistics</a></br>
+<a href="https://datausa.io/profile/geo/travis-county-tx#housing">Housing Statistics</a></br>
+<a href="https://datausa.io/profile/geo/travis-county-tx">Income Statistics</a></br>
+<a href="https://datausa.io/profile/geo/travis-county-tx">National Income Statistics</a></br>
 
 ---
 <h2>Objectives</h2>
@@ -36,6 +55,8 @@
 | DC Fast Charge Charging Station |	43 |
 
 
+---
+<h2>Case Study Variables</h2>
 ---
 <h2>Why Texas?</h2>
   
