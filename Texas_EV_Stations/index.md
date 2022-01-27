@@ -25,7 +25,7 @@
 
 | Data Type | Value |
 | :-: | :-: |
-| Area<sup>6</sup> (Sq Mi) |	990.20  |
+| Area (Sq Mi)<sup>6</sup>  |	990.20  |
 | Population (2019)<sup>6</sup> |	1,290,188 |
 | Population per Sq Mi<sup>6</sup>  |	1,034 |
 | Registered Vehicles<sup>7</sup> | 931, 348 |
