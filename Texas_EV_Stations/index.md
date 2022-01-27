@@ -31,36 +31,10 @@
 | Registered Vehicles<sup>7</sup> | 931, 348 |
 | Registered Electric Vehicles<sup>7</sup> | 	6,480 |
 | Public Charging Stations<sup>7,8</sup> | 500 |
-| Level 1 |	7 |
-| Level 2 |	450 |
-| DC Fast Charge |	43 |
+| Level 1 Charging Station |	7 |
+| Level 2 Charging Station |	450 |
+| DC Fast Charge Charging Station |	43 |
 
-<table>
-<tr><th>Demographics </th><th>Vehicle Demographics</th><th>EVCS Demographics</th></tr>
-<tr><td>
-
-|Data Type | Value |
-|:-:|:-:|
-| Area<sup>6</sup> (Sq Mi) |	990.20  |
-| Population (2019)<sup>6</sup> |	1,290,188 |
-| Population per Sq Mi<sup>6</sup>  |	1,034 |
-
-</td><td>
-
-|Data Type | Value | 
-|:-:|:-:|
-| Registered Vehicles<sup>7</sup> | 931, 348 |
-| Registered Electric Vehicles<sup>7</sup> | 	6,480 |
-
-  </td><td>
-
-|Data Type | Value | 
-|:-:|:-:|
-| Public Charging Stations<sup>7,8</sup> | 500 |
-| Level 1 |	7 |
-| Level 2 |	450 |
-| DC Fast Charge |	43 |
-</td></tr> </table>
 
 ---
 <h2>Why Texas?</h2>
