@@ -10,6 +10,7 @@
   
   <li>The supporting evidence for these measures has been that the disproportionate share of GHG emissions are produced by private light-duty vehicles. Within the U.S. transportation sector over 59% of total GHG emissions are emitted by private light-duty vehicles<sup>5</sup>.</li>
 </ul>
+
 ---
 <h2>Background</h2>
 <h4>Why Travis County, Texas?</h4>
