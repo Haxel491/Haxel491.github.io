@@ -2,10 +2,8 @@ title: Mike Haxel's Professional Portfolio
 logo: #"Ralph.JPG" # Photo Logo
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <center><b>Data Analyst at F.W. Haxel Company</b></center> 
-  <br>
   <center><b>Masters of Geographic Information Systems (MGIS)</b></center>
   <center><b>Penn State University, 2021</b></center>
-  <br><br>
   <a href="https://www.linkedin.com/in/michael-haxel-2623848a/">View My LinkedIn Profile</a>
 
 remote_theme: pages-themes/cayman@v0.2.0
