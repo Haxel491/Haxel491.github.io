@@ -4,7 +4,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <center><b>Data Analyst at F.W. Haxel Company</b></center> 
   <center><b>Masters of Geographic Information Systems (MGIS)</b></center>
   <center><b>Penn State University, 2021</b></center>
-  <a href="https://www.linkedin.com/in/michael-haxel-2623848a/">View My LinkedIn Profile</a>
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
