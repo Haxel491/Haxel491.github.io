@@ -24,6 +24,8 @@
   </ul>
 </ul>
 
+ <img src="Images/Project_EV_Registration.jpg" width="318"/> <img src="Images/Project_Cumulative_EV_Registration.jpg" width="300"/>
+ 
 <p><strong>Source(s):</strong></p>
 <a href="https://censusreporter.org/profiles/05000US48453-travis-county-tx/">Age Statistics</a><br>
 <a href="https://www.census.gov/quickfacts/traviscountytexas">Education Statistics</a><br>
@@ -58,12 +60,30 @@
 
 ---
 <h2>Case Study Variables</h2>
+
+<ul>
+  <li><strong>Population: Age Demographics</strong></li>
+  <ul>
+    <li>Source<a href="https://www.census.gov/programs-surveys/acs" target="_blank" rel="noopener noreferrer">: American Community Survey (2019), Population Estimates</a></li>
+  </ul>
+  <li><strong>Local Points of Interest (POIs)</strong></li>
+  <ul>
+    <li>Source<a href="https://www.safegraph.com/products/core" target="_blank" rel="noopener noreferrer">: SafeGraph (Core Places & Patterns)</a></li>
+  </ul>
+  <li><strong>Time Use or Dwell Time of Residents</strong></li>
+  <ul>
+    <li>Source<a href="https://www.bls.gov/tus/" target="_blank" rel="noopener noreferrer">: American Time Use Survey (2019), Activities & Duration</a></li>
+  </ul>
+ </ul>
+
+
+
 ---
 <h2>Why Texas?</h2>
   
  <img src="Images/State_EV_Registrations.jpg" width="500"/>
 
- <img src="Images/Project_EV_Registration.jpg" width="500"/> <img src="Images/Project_Cumulative_EV_Registration.jpg" width="500"/>
+
  
 ---
 <h2> Model Workflows</h2>
