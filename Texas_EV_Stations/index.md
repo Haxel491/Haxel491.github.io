@@ -79,9 +79,11 @@
 
 
 ---
-<h2>Why Texas?</h2>
+<h2>Methodology</h2>
   
- <img src="Images/State_EV_Registrations.jpg" width="500"/>
+![ECDL Model](https://user-images.githubusercontent.com/64942612/151672064-924403e5-8862-40a5-a4e3-2b335f042ed2.jpg)
+
+
 
 
  
