@@ -93,6 +93,7 @@
 
 ### [Stage 5](/Case_Study_Framework/Step_1/index.md)
 
+<a href="/Case_Study_Framework/Step_1/index.md" class="btn">Home</a>
 
 ![ECDL Model](https://user-images.githubusercontent.com/64942612/151672064-924403e5-8862-40a5-a4e3-2b335f042ed2.jpg)
 
