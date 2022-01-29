@@ -84,7 +84,7 @@
 <h3>Case Study Framework</h3>
 
 
-### [Case Study Frame Work](/Case_Study_Framework/index.md)
+### [Stage 1](/Case_Study_Framework/index.md)
 
 ![ECDL Model](https://user-images.githubusercontent.com/64942612/151672064-924403e5-8862-40a5-a4e3-2b335f042ed2.jpg)
 
