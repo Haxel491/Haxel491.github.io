@@ -83,9 +83,6 @@
 
 <h3>Case Study Framework</h3>
 
-<details><summary><strong>Click Here to See Individual Steps</strong></summary>
-<p>
-  
 ### [Stage 1](/Case_Study_Framework/Step_1/index.md)
 
 ### [Stage 2](/Case_Study_Framework/Step_1/index.md)
@@ -96,8 +93,6 @@
 
 ### [Stage 5](/Case_Study_Framework/Step_1/index.md)
   
-</p>
-</details>
 
 ![ECDL Model](https://user-images.githubusercontent.com/64942612/151672064-924403e5-8862-40a5-a4e3-2b335f042ed2.jpg)
 
