@@ -80,10 +80,22 @@
 
 ---
 <h2>Methodology</h2>
-  
+
+<h3>Case Study Framework</h3>
+
 ![ECDL Model](https://user-images.githubusercontent.com/64942612/151672064-924403e5-8862-40a5-a4e3-2b335f042ed2.jpg)
 
+<h3>Electric Charging Demand Location Model (ECDL) Formula</h3>
 
+![ECDL_Formula](https://user-images.githubusercontent.com/64942612/151672481-59dec717-1e13-4372-8f15-353f5368cc04.jpg)
+<p><strong>Variable Definitions</strong><p>
+  <ul>
+    <li>E<sub>g,p</sub> = Average electric demand for required to charge an EV at a single Point of Interest</li>
+    <ul>
+      <li>g = Age groups</li>
+      <li>p = Points of Interest (POIs)</li>
+    </ul>
+   </ul>
 
 
  
