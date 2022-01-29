@@ -4,7 +4,7 @@
 
 <h2>Workflow Model</h2>
 
-![Methodology_Step_1](https://user-images.githubusercontent.com/64942612/151678524-32340ff5-0318-41fb-9923-666ab1cd3b84.jpg)
+![Methodology_Step_1](https://user-images.githubusercontent.com/64942612/151679222-4fd68363-a93b-4c23-822d-41af3561f6eb.jpg)
 
 ---
 <h2>Results</h2>
