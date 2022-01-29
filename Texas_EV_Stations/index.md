@@ -95,6 +95,12 @@
       <li>g = Age groups</li>
       <li>p = Points of Interest (POIs)</li>
     </ul>
+    <li>K = Electric energy demand</li>
+    <li>F<sub>g</sub> = EV ownership proportion (%) per age group</li>
+    <li>O<sub>g</sub> = Traditional vehicle ownership proportion (%) per age group</li>
+    <li>I<sub>g</sub> = Number of residents per age group</li>
+    <li>D<sub>g,p</sub> = Proportion of time spent (dwell time) per user group per POI type</li>
+    <li>A<sub>p</sub> = Number of POIs per POI type</li>
    </ul>
 
 
