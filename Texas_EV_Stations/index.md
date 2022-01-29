@@ -83,7 +83,11 @@
 
 <h3>Case Study Framework</h3>
 
+
+### [hi](/Case_Study_Framework/index.md)
+
 ![ECDL Model](https://user-images.githubusercontent.com/64942612/151672064-924403e5-8862-40a5-a4e3-2b335f042ed2.jpg)
+
 <p><strong>Step 1</strong></p>
 <h3>Electric Charging Demand Location Model (ECDL) Formula</h3>
 
@@ -109,6 +113,8 @@
 <h2> Model Workflows</h2>
 
 <h3><a href="https://haxel491.github.io/Texas_EV_Stations/Images/Texas_Counties_EV_Tool.PNG" target="_blank" rel="noopener noreferrer">County & Electrical Vehicle Charging Station Georeferencing Tool</a></h3>
+
+
 <img src="Images/Texas_Counties_EV_Tool.PNG"/>
 
 
