@@ -132,7 +132,22 @@
 <img src="Images/Theissen_Polygon_Tool.PNG"/>
 
 ---
-<h2>Map of Electrical Vehicle Charging Stations in Texas</h2>
-<img src="Images/Texas EV System.jpg"/>
+<h2>Results of ECDL Model in Travis County,Texas</h2>
+
+<h3>Total kWh Demand Produced by the ECDL Model</h3>
+![image](https://user-images.githubusercontent.com/64942612/153056091-5acfe998-18dd-4df0-bf52-955dd56bfbbc.png)
+
+<h3>Allocated kWh Demand Produced by the ECDL Model</h3>
+![image](https://user-images.githubusercontent.com/64942612/153056377-2fec973e-fc76-4725-ad19-5815bfeb65d6.png)
+
+![image](https://user-images.githubusercontent.com/64942612/153056398-15cca174-00ee-4d4d-b713-3be65a049ec6.png)
+
+
+
+
+
+
+
+
 
 
