@@ -138,16 +138,18 @@
 <h3>Total kWh Demand Produced by the ECDL Model</h3>
 
 
-![Total_kWh_Deman](https://user-images.githubusercontent.com/64942612/153056091-5acfe998-18dd-4df0-bf52-955dd56bfbbc.png)
+![Total_Produced_Demand](https://user-images.githubusercontent.com/64942612/153060584-06a58650-b53a-4c81-afd7-f40a89b0b5ee.jpg)
 
 
 <h3>Allocated kWh Demand Produced by the ECDL Model</h3>
 
+![Allocated_Demand_1](https://user-images.githubusercontent.com/64942612/153060613-73d1edb1-6c09-491d-96a9-ad0efe8aa5d3.jpg)
 
-![Allocated_kwh_Demand_1](https://user-images.githubusercontent.com/64942612/153056377-2fec973e-fc76-4725-ad19-5815bfeb65d6.png)
 
 
-![Allocated_kwh_Demand_2](https://user-images.githubusercontent.com/64942612/153056398-15cca174-00ee-4d4d-b713-3be65a049ec6.png)
+![Allocated_Demand_2](https://user-images.githubusercontent.com/64942612/153060633-5637eb54-4aa4-4ed1-95d1-d3528b2fac10.jpg)
+
+
 
 
 
