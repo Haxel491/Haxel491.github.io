@@ -99,7 +99,7 @@
 <h3>Electric Charging Demand Location Model (ECDL) Formula</h3>
 
 ![ECDL_Formula](https://user-images.githubusercontent.com/64942612/151672481-59dec717-1e13-4372-8f15-353f5368cc04.jpg)
-<p><strong>Variable Definitions</strong><p>
+<p><strong>Variable Definitions</strong></p>
   <ul>
     <li>E<sub>g,p</sub> = Average electric demand for required to charge an EV at a single Point of Interest</li>
     <ul>
@@ -113,17 +113,13 @@
     <li>D<sub>g,p</sub> = Proportion of time spent (dwell time) per user group per POI type</li>
     <li>A<sub>p</sub> = Number of POIs per POI type</li>
    </ul>
-
-
- 
+   
 ---
 <h2> Model Workflows</h2>
 
 <h3><a href="https://haxel491.github.io/Texas_EV_Stations/Images/Texas_Counties_EV_Tool.PNG" target="_blank" rel="noopener noreferrer">County & Electrical Vehicle Charging Station Georeferencing Tool</a></h3>
 
-
 <img src="Images/Texas_Counties_EV_Tool.PNG"/>
-
 
 <h3>Cost Allocation Determination Tool</h3>
 <img src="Images/Cost_Allocation_Tool.PNG"/>
@@ -132,7 +128,6 @@
 <img src="Images/Theissen_Polygon_Tool.PNG"/>
 
 ---
-
 <h2>Results of ECDL Model in Travis County,Texas</h2>
 
 <h3>Total kWh Demand Produced by the ECDL Model</h3>
