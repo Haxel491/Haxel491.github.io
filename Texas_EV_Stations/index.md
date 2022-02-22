@@ -87,7 +87,7 @@
 
 ### [Step 2](/Case_Study_Framework/Step_2/index.md)
 
-### [Step 3](/Case_Study_Framework/Step_3/index.md)
+### [Step 3](/Case_Study_Framework/Step 3/index.md)
 
 ### [Step 4](/Case_Study_Framework/Step_4/index.md)
 
